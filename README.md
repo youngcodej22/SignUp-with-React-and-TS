@@ -1,4 +1,4 @@
-# 조교행님: Youtube
+# React and TS micro project
 
 - [React+TypeScript](https://www.youtube.com/watch?v=Z5tPzdMEhCM)
 
